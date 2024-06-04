@@ -1,6 +1,7 @@
 This is a Pizza Restaurant ChatBot that allows users to place pizza orders according to their preferences and automatically generates a bill based on the orders given to the chatbot.
 
-Instructions for Running the ChatBot
+Instructions for Running the ChatBot:
+ 
  
  1. Download all the necessary files.
  
