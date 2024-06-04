@@ -1,0 +1,6 @@
+{
+    "margherita": {"small": 5, "medium": 7, "large": 10},
+    "pepperoni": {"small": 6, "medium": 8, "large": 12},
+    "hawaiian": {"small": 6, "medium": 8, "large": 12},
+    "veggie": {"small": 5, "medium": 7, "large": 10}
+}
