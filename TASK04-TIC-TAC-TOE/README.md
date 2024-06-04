@@ -8,7 +8,7 @@ This project implements an unbeatable AI for the classic Tic-Tac-Toe game using 
 2. Navigate to the `src` directory.
 3. Run the game using frontend.py.
 
-```sh
+
 
 ![Screenshot 2024-06-04 185615](https://github.com/sandipgadatia/CODSOFT/assets/139265781/5c91446e-63b8-4362-ac00-3a65eb900883)
 ![Screenshot 2024-06-04 185700](https://github.com/sandipgadatia/CODSOFT/assets/139265781/53aaa5be-bbe2-45f8-acb8-6f0aded2dbcf)
